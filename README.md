@@ -27,3 +27,7 @@ make (e=2): The system cannot find the file specified.
 # Related
 
 https://stackoverflow.com/questions/37906316/why-there-is-no-mkdir-in-msys
+
+# Alternative
+
+https://sourceforge.net/projects/unxutils/
