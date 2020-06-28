@@ -1,7 +1,8 @@
 # mingw32
 mingw32-make
 
-This is for sloving common mingw32-make error without installing MSYS2.
+This is for solving common mingw32-make error without installing MSYS2.
+This is actually proxy version that call the actual windows version.
 
 Make show error when using windows version of mkdir:
 
