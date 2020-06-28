@@ -24,4 +24,6 @@ make (e=2): The system cannot find the file specified.
 * e.g. copy rm.exe and makedir.exe to C:\MinGW\bin
 
 
+# Related
 
+https://stackoverflow.com/questions/37906316/why-there-is-no-mkdir-in-msys
