@@ -20,7 +20,7 @@ make (e=2): The system cannot find the file specified.
 ```
 
 
-* Built the main.c to rm.exe and mkdir.exe, then place it to mingw32 /bin installation folder.
+* Built the main.c to rm.exe and makedir.exe, then place it to mingw32 /bin installation folder.
 * e.g. copy rm.exe and makedir.exe to C:\MinGW\bin
 
 
